@@ -1,2 +1,11 @@
 .DS_Store
 coding/target/**/*
+.idea
+*.iml
+*.ipr
+*.iws
+*.log
+*.class
+*.jar
+.vscode
+*.swp
